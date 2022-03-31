@@ -66540,7 +66540,7 @@ ga2h(){return new A.cP(new A.Tv(),new A.Tw(),new A.Tx(this),new A.Ty(this))},
 ga_i(){return new A.cP(new A.Tn(),new A.To(),new A.Tp(this),new A.Tq(this))}}
 A.Tz.prototype={
 $0(){var s=this.a
-A.av7(this.b,A.a([s.ga2b(),s.ga2h(),s.ga_i()],t.uF),"Popup Menu")},
+A.av7(this.b,A.a([s.ga2b(),s.ga2h(),s.ga_i()],t.uF),"Bird Hanging Conveyor")},
 $S:0}
 A.Tr.prototype={
 $0(){return"Start line"},
