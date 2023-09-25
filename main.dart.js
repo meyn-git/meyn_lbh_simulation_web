@@ -81528,7 +81528,7 @@ A.Gh.prototype={}
 A.K7.prototype={}
 A.LY.prototype={}
 A.a8W.prototype={
-$1(a){var s,r=new A.Gj("Line 1",a,A.a([],t.E),A.a([],t.T),B.h)
+$1(a){var s,r=new A.Gj("With 2 CAS units",a,A.a([],t.E),A.a([],t.T),B.h)
 r.D(0,A.bd(r,B.n,B.k,B.cV,2))
 r.D(0,A.bd(r,B.n,B.k,B.hD,1))
 r.D(0,A.hx(r,B.n,B.eS))
@@ -81545,7 +81545,7 @@ r.D(0,new A.em(B.h,r,B.dE))
 return A.a([r],t.b)},
 $S:14}
 A.a8X.prototype={
-$1(a){var s,r=new A.Gk("Line 1",a,A.a([],t.E),A.a([],t.T),B.h)
+$1(a){var s,r=new A.Gk("With 3 CAS units",a,A.a([],t.E),A.a([],t.T),B.h)
 r.D(0,A.bd(r,B.n,B.k,B.cV,3))
 r.D(0,A.bd(r,B.n,B.k,B.hD,2))
 r.D(0,A.bd(r,B.n,B.k,B.eS,1))
