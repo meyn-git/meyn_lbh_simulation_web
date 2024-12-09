@@ -86622,7 +86622,7 @@ b4.l(e.gky(),d.gmw())
 b4=b4.a
 q=J.bi(b4)
 q.G(b4,A.hX(r.gb2(),b3))
-q.G(b4,A.hY(b3,A.a([0.33,0.66,1,1.33,1.66,2,2.33,2.66],t.n),B.bm))}}
+q.G(b4,A.hY(b3,A.a([0.8,1,1.33,1.66,2,2.33],t.n),B.bm))}}
 A.NC.prototype={}
 A.NB.prototype={}
 A.a9S.prototype={
